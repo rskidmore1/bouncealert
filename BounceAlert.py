@@ -116,4 +116,3 @@ if todayBounceCount < 7:  #Uncomment to measure Bounce's on website
 
 else:
   print "Its ok"
-  #os.system("echo 'Subject: Testing' | /usr/sbin/ssmtp rskidmore@carmine.io" )
